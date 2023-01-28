@@ -3,7 +3,7 @@
   "title": "严正声明",
   "intro":"如果你花钱买到本软件, 请差评+退货, 本软件为免费提供",
   "exit": false,
-  "show": true,
+  "show": false,
   "f": true,
   "url": "",
   "time": 4,
